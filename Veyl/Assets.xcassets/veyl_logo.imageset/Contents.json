@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "20250801_1415_Friendly Stone Text_remix_01k1kgrcv8ew9v8hsw2y3j1n9n.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
