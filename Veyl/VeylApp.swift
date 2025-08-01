@@ -11,7 +11,8 @@ import SwiftUI
 struct VeylApp: App {
     var body: some Scene {
         WindowGroup {
-            HomeView()
+            TabBarWrapperView()
+                .ignoresSafeArea()
         }
     }
 }
