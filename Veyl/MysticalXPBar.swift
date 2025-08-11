@@ -2,7 +2,7 @@
 //  MysticalXPBar.swift
 //  Veyl
 //
-//  Created by Alec Smith on 7/31/25.
+//  Created by Alec Smith on 7/31/25..
 //
 
 import UIKit
